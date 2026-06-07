@@ -1,0 +1,7 @@
+build/
+*.log
+.cache/
+.vscode/
+.idea/
+compile_commands.json
+include/nlohmann/
