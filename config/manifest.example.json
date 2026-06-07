@@ -1,0 +1,16 @@
+[
+    {
+        "name": "myapp",
+        "version": "2.1.0",
+        "url": "https://example.com/packages/myapp-2.1.0.tar.gz",
+        "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "install_script": "install.sh"
+    },
+    {
+        "name": "helper-tool",
+        "version": "1.0.5",
+        "url": "https://example.com/packages/helper-tool-1.0.5.tar.gz",
+        "checksum": "a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3",
+        "install_script": ""
+    }
+]
